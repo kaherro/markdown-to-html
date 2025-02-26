@@ -20,7 +20,7 @@
    ```bash
    javac md2html/Md2Html.java
    ```
-   Запустите:
+2. Запустите:
    ```bash
    java md2html.Md2Html input.txt output.txt
    ```
